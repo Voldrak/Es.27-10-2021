@@ -42,11 +42,7 @@ h1 {
 }
 
 /* TESTO */
-.test .flex-container{
-    display: flex;
-    justify-content: center;
-    margin: 50px 10px;
-}
+
 .competenze {
     border: 1px solid;
     margin: 50px 10px;
@@ -54,10 +50,16 @@ h1 {
     padding-left: 30px;
 }
 
+.flex-container2{
+    display: flex;
+    margin: 50px 10px;
+
+}
+
 .hobby {
     border: 1px solid;
-    text-align: left;
-    
+    width: 75%;
+    padding-left: 30px;
 }
 
 
@@ -65,7 +67,7 @@ h1 {
     font-size: 27px;
     font-weight: 700px;
     text-decoration: none;
-    padding: 15px 17px;
+    padding: 15px 17px;    
     border: none;
     border-radius: 3px;
 }
@@ -74,3 +76,26 @@ h1 {
 .illumi {
     background: lightgoldenrodyellow;
 }
+
+
+/* TEST */
+.test {
+    border: 1px solid;
+    margin: 50px 10px;
+    padding-left: 30px;
+}
+
+.parti {
+    border: 1px solid;
+    display: flex;
+    flex-wrap: warp;
+}
+
+.parte {
+    height: 100px;
+    width: 160px;
+    border: 1px solid;
+    margin: 10px;
+    text-align: center;
+}
+
