@@ -1,0 +1,76 @@
+h1 {
+    text-align: center;
+}
+
+.curriculum {
+    border: 1px solid;
+}
+
+/* HEADER */
+
+
+.header .flex-container{
+    border: 1px solid;
+    display: flex;
+    justify-content: center;
+}
+
+.nomecognome {
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-right: 75%;
+}
+
+.nightM {
+    text-align: right;
+}
+
+#enableDarkMode {
+    position: relative;
+    font-size: 30px;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 15px 17px;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+}
+
+.nightMode {
+    background: #5b5555;
+}
+
+/* TESTO */
+.test .flex-container{
+    display: flex;
+    justify-content: center;
+    margin: 50px 10px;
+}
+.competenze {
+    border: 1px solid;
+    margin: 50px 10px;
+    justify-content: center;
+    padding-left: 30px;
+}
+
+.hobby {
+    border: 1px solid;
+    text-align: left;
+    
+}
+
+
+#luce {
+    font-size: 27px;
+    font-weight: 700px;
+    text-decoration: none;
+    padding: 15px 17px;
+    border: none;
+    border-radius: 3px;
+}
+
+
+.illumi {
+    background: lightgoldenrodyellow;
+}
