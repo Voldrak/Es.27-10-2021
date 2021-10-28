@@ -97,5 +97,36 @@ h1 {
     border: 1px solid;
     margin: 10px;
     text-align: center;
+    background: white;
 }
 
+/*#uno {
+    background: white;
+}
+#due {
+    background: white;
+}
+#tre {
+    background: white;
+}
+#quattro {
+    background: white;
+}
+#cinque {
+    background: white;
+}*/
+.uno {
+    background: red;
+}
+.due {
+    background: red;
+}
+.tre {
+    background: red;
+}
+.quattro {
+    background: red;
+}
+.cinque {
+    background: red;
+}
